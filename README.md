@@ -1,1 +1,4 @@
 # budgetApp
+
+## Configuration
+1. 
